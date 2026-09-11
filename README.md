@@ -180,4 +180,4 @@ App feedback goes to [tryglance.app/feedback](https://tryglance.app/feedback).
 
 ## 📄 License
 
-[MIT](LICENSE) © Jonathan Zhou
+[MIT](LICENSE) © Kunta Solomon Dongo
